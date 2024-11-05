@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinanceiroEsxTest", "FinanceiroEsxTest\FinanceiroEsxTest.csproj", "{3DD0C8AC-8A62-461D-B0E9-A61F0863F424}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infra", "Infra\Infra.csproj", "{12BE7986-86AA-42E7-9A7D-2F969F745D01}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dominio", "Dominio\Dominio.csproj", "{B24CE280-BA09-422B-B45C-AEEE7B3EB0D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3DD0C8AC-8A62-461D-B0E9-A61F0863F424}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DD0C8AC-8A62-461D-B0E9-A61F0863F424}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DD0C8AC-8A62-461D-B0E9-A61F0863F424}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DD0C8AC-8A62-461D-B0E9-A61F0863F424}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12BE7986-86AA-42E7-9A7D-2F969F745D01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12BE7986-86AA-42E7-9A7D-2F969F745D01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12BE7986-86AA-42E7-9A7D-2F969F745D01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12BE7986-86AA-42E7-9A7D-2F969F745D01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B24CE280-BA09-422B-B45C-AEEE7B3EB0D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B24CE280-BA09-422B-B45C-AEEE7B3EB0D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B24CE280-BA09-422B-B45C-AEEE7B3EB0D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B24CE280-BA09-422B-B45C-AEEE7B3EB0D7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA1277C6-6D24-4488-9919-403925BC6FA1}
+	EndGlobalSection
+EndGlobal
